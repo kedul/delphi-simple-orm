@@ -1,0 +1,1 @@
+a simple stable orm for delphi 2010,xe
